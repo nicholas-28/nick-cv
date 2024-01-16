@@ -9,7 +9,7 @@ Phone: +995.551.107327
 ---
 
 ### Professional Summary
-Aspiring Junior Frontend Engineer with a keen interest in web development. While new to the industry, my dedication to learning and applying web development principles is strong. I bring valuable soft skills gained from customer service, including problem-solving, teamwork, and stress management. Eager to immerse myself in industry standards and best practices and to contribute to a dynamic team.
+Aspiring Junior Frontend Developer with a keen interest in web development. While new to the industry, my dedication to learning and applying web development principles is strong. I bring valuable soft skills gained from customer service, including problem-solving, teamwork, and stress management. Eager to immerse myself in industry standards and best practices and to contribute to a dynamic team.
 
 ---
 
