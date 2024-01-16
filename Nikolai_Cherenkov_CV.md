@@ -2,7 +2,7 @@
 ## Junior Frontend Developer
 Tbilisi, Georgia  
 Email: [nikolai8cherenkov@gmail.com](mailto:nikolai8cherenkov@gmail.com)  
-LinkedIn: [LinkedIn Profile]([[Your-LinkedIn-URL]](https://www.linkedin.com/in/nikolai-cherenkov-3861a0261/)(https://www.linkedin.com/in/nikolai-cherenkov-3861a0261/))  
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikolai-cherenkov-3861a0261/)
 Phone: +995.551.107327
 
 ---
