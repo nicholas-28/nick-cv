@@ -34,7 +34,7 @@ _Nov. 2021 - Jul. 2022_
 ### Education
 #### Web and Computer Programming Certificate
 **Brigham Young University–Idaho**  
-_Expected Apr. 2023_
+_Jul. 2023_
 - Developing a solid foundation in web development and programming.
 
 #### PathwayConnect Certificate
